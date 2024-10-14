@@ -1,0 +1,9 @@
+### Python ###
+__pycache__/
+
+### IntelliJ IDEA ###
+.idea/
+
+
+## PROJECT ###
+msghandler.py
